@@ -1,3 +1,8 @@
+/*
+ * @Author: kingford
+ * @Date: 2021-05-14 22:19:53
+ * @LastEditTime: 2021-05-14 22:51:14
+ */
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
@@ -9,6 +14,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
+          Hello
         </p>
         <a
           className="App-link"
