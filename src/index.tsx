@@ -1,11 +1,11 @@
 /*
  * @Author: kingford
  * @Date: 2021-05-14 22:19:53
- * @LastEditTime: 2021-05-17 01:10:05
+ * @LastEditTime: 2021-05-17 14:09:06
  */
 import React from 'react';
 import ReactDOM from 'react-dom';
-// import './styles/index.scss';
+import './styles/index.scss';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
