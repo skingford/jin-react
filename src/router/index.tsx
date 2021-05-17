@@ -1,7 +1,7 @@
 /*
  * @Author: kingford
  * @Date: 2021-05-17 14:21:07
- * @LastEditTime: 2021-05-17 14:25:13
+ * @LastEditTime: 2021-05-17 15:35:37
  */
 import React from 'react'
 import {
@@ -9,8 +9,8 @@ import {
   Routes,
   Route
 } from 'react-router-dom';
-import { About } from '../pages/About';
-import { Home } from '../pages/Home';
+import { About } from '@pages/About';
+import { Home } from '@pages/Home';
 
 
 const AppRouter:React.FC = ()=>{
