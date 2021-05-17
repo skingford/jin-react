@@ -1,17 +1,17 @@
 /*
  * @Author: kingford
  * @Date: 2021-05-14 22:19:53
- * @LastEditTime: 2021-05-17 14:09:06
+ * @LastEditTime: 2021-05-17 14:25:41
  */
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './styles/index.scss';
-import App from './App';
+import {AppRouter} from './router';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <AppRouter />
   </React.StrictMode>,
   document.getElementById('root')
 );
